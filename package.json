@@ -1,9 +1,9 @@
 {
-  "name": "tea",
+  "name": "tea_dao",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "repository": "https://github.com/vvodopianov/tea/.git",
+  "repository": "https://github.com/vvodopianov/tea_dao/.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
